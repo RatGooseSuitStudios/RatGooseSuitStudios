@@ -1,0 +1,15 @@
+# The below config stuff is used by the Minima theme
+
+title: RatGooseSuitStudios
+description: |
+  Hello World! We are RatGooseSuit Studios.
+  This website features our newest game, Travelling with Taste!
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: RatGooseSuitStudios
+github_username:  RatGooseSuitStudios
+
+theme: minima
+plugins:
+  - jekyll-feed

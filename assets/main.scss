@@ -1,0 +1,12 @@
+---
+---
+// This is a special file - Jekyll imports it as the main css root and does the Sass postprocessing.
+
+
+// Use our cool red instead of the LAME default color.
+$brand-color: #e8342e;
+
+@import "minima";
+
+// This imports _sass/custom/_index.scss, which has/imports all of our custom css.
+@import "custom";
