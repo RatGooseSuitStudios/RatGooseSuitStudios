@@ -25,6 +25,9 @@ Shengce Zhou
 
 #### Tech Team
 ![An image of team member Casey Costa](/ProfilePictures/Casey_Costa.jpg)<br>
+
+<img src="/ProfilePictures/Jadon_Lemkin.png" alt="A profile picture for team member Jadon Lemkin." width="500">
+
 Casey Costa
 - Team Role: UI/UX Developer, Level Designer
 - Contact Info:
