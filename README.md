@@ -25,7 +25,7 @@ Shengce Zhou
 - Contact Info: szhou9@wpi.edu
 
 #### Tech Team
-<img src="/ProfilePictures/Casey_Costa.png" alt="A profile picture for team member Casey Costa." height="300">
+<img src="/ProfilePictures/Casey_Costa.jpg" alt="A profile picture for team member Casey Costa." height="300">
 
 Casey Costa
 - Team Role: UI/UX Developer, Level Designer
