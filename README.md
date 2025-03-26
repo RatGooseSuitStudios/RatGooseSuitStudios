@@ -5,48 +5,51 @@
 ### About The Team
 
 #### Art Team
-![An image of team member Logan Boutwell](./ProfilePictures/Logan_Boutwell.jpg)<br>
+<img src="/ProfilePictures/Logan_Boutwell.jpg" alt="A profile picture for team member Logan Boutwell." height="300">
+
 Logan Boutwell
 - Team Role: Animation, Environmental Modelling
-- Contact Info:
-- Portfolio Site:
+- Contact Info: lkboutwell@wwpi.edu
 
-![An image of team member Jadon Lemkin](./ProfilePictures/Jadon_Lemkin.png)<br>
+<img src="/ProfilePictures/Jadon_Lemkin.png" alt="A profile picture for team member Jadon Lemkin." height="300">
+
 Jadon Lemkin
 - Team Role: Environmental Art, Hard-Surface Modelling, Sound Design
-- Contact Info:
-- Portfolio Site:
+- Contact Info: jdlemkin@wpi.edu
+- [Portfolio Site](https://koerismo.digital)
 
-![An image of team member Shengce Zhou]()<br>
+<img src="/ProfilePictures/Shengce_Zhou.png" alt="A profile picture for team member Shengce Zhou." height="300">
+
 Shengce Zhou
 - Team Role: Concept Art, Texturing, Soundtrack, Modelling
-- Contact Info:
-- Portfolio Site:
+- Contact Info: szhou9@wpi.edu
 
 #### Tech Team
-![An image of team member Casey Costa](/ProfilePictures/Casey_Costa.jpg)<br>
+<img src="/ProfilePictures/Casey_Costa.jpg" alt="A profile picture for team member Casey Costa." height="300">
+
 Casey Costa
 - Team Role: UI/UX Developer, Level Designer
-- Contact Info:
-- Portfolio Site:
+- Contact Info: cjcosta@wpi.edu
 
-![An image of team member Abraham Goodman](./ProfilePictures/Abraham_Goodman.jpg)<br>
+<img src="/ProfilePictures/Abraham_Goodman.jpg" alt="A profile picture for team member Abraham Goodman." height="300">
+
 Abraham Goodman
 - Team Role: Systems Programmer
-- Contact Info:
-- Portfolio Site:
+- Contact Info: abgoodman1@wpi.edu
+- [Portfolio Site](https://abrahamgoodman.github.io)
 
-![An image of team member Jeremy King](./ProfilePictures/Jeremy_King.jpg)<br>
+<img src="/ProfilePictures/Jeremy_King.jpg" alt="A profile picture for team member Jeremy King." height="300">
+
 Jeremy King
 - Team Role: Mechanics Designer, Level Designer
-- Contact Info:
-- Portfolio Site:
+- Contact Info: jgking@wpi.edu
+- [Portfolio Site](https://jgking.dev)
 
-![An image of team member Ben Levy](./ProfilePictures/Ben_Levy.JPEG)<br>
+<img src="/ProfilePictures/Ben_Levy.JPEG" alt="A profile picture for team member Ben Levy." height="300">
+
 Ben Levy
 - Team Role: Systems Programmer, Designer, Production
-- Contact Info:
-- Portfolio Site:
+- Contact Info: belevy@wpi.edu
 
 ---
 
