@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# Posts are inserted via the "home" layout, which is defined in the theme.
-# If we want to modify this, we can set the layout to "page"
-# and loop over the posts manually with the template syntax.
+## This website features our newest game, *Travelling with Taste*!
