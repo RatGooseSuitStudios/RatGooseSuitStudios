@@ -1,0 +1,17 @@
+<div class="profile">
+	<img src="{{ profile.img }}" />
+	<div>
+		<h4>{{ profile.name }}</h4>
+		<div class="roles">
+			{% for role in profile.roles %}<span>{{ role }}</span>{% endfor %}
+		</div>
+		<div class="links">
+			{% if profile.email %}
+				<a referrerpolicy="no-referrer" href="mailto:{{ profile.email }}">{{ profile.email }}</a>
+			{% endif %}
+			{% if profile.site %}
+				<a referrerpolicy="no-referrer" href="https://{{ profile.site }}/">{{ profile.site }}</a>
+			{% endif %}
+		</div>
+	</div>
+</div>
