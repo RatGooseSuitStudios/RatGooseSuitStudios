@@ -31,6 +31,12 @@
   site: "abrahamgoodman.github.io"
   img: "/assets/img/profile/Abraham.jpg"
 
+- name: "Jeremy King"
+  roles: ["Mechanics Designer", "Level Designer"]
+  email: "jgking@wpi.edu"
+  site: "jgking.dev"
+  img: "/assets/img/profile/Jeremy.jpg"
+
 - name: "Ben Levy"
   roles: ["Systems Programmer", "Designer", "Production"]
   email: "belevy@wpi.edu"
