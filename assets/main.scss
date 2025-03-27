@@ -2,9 +2,12 @@
 ---
 // This is a special file - Jekyll imports it as the main css root and does the Sass postprocessing.
 
+// Import the Sass color utility methods so we can mess with the brand color
+@use "sass:color";
 
 // Use our cool red instead of the LAME default color.
 $brand-color: #e8342e;
+$brand-color-transparent: color.change($brand-color, $alpha: 0.3);
 
 @import "minima";
 

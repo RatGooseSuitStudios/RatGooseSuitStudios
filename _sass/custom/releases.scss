@@ -1,6 +1,3 @@
-// Import the Sass color utility methods so we can mess with the brand color
-@use "sass:color";
-
 gh-releases {
 	display: flex;
 	flex-direction: column;
@@ -26,7 +23,7 @@ gh-releases {
 		&:first-child {
 			// The #{...} syntax is used to convert from a Sass variable to a regular one.
 			--accent-color: #{$brand-color};
-			--accent-color-transparent: #{color.change($brand-color, $alpha: 0.3)};
+			--accent-color-transparent: #{$brand-color-transparent};
 			--border-color: #000;
 
 			outline: 4px solid var(--accent-color-transparent);
