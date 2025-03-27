@@ -12,4 +12,4 @@ permalink: /releases/
 
 ---
 
-### [View All Releases](https://github.com/)
+### [View All Releases](https://github.com/RatGooseSuitStudios/TravellingWithTaste/releases)
