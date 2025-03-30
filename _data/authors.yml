@@ -1,0 +1,44 @@
+# This lets us use a single template to auto-generate all of the profiles with Jekyll
+# I have no clue what I am doing, just googling a lot and praying - Jadon
+
+- name: "Logan Boutwell"
+  roles: ["Animation", "Environmental Modelling"]
+  email: "lkboutwell@wpi.edu"
+  site: null
+  img: "/assets/img/profile/Logan.jpg"
+
+- name: "Jadon L."
+  roles: ["Environmental Art", "Hard-Surface Modelling", "Sound Design"]
+  email: "koerismo@gmail.com"
+  site: "koerismo.digital"
+  img: "/assets/img/profile/Jadon.jpg"
+
+- name: "Shengce Zhou"
+  roles: ["Concept Art", "Texturing", "Soundtrack", "Modelling"]
+  email: "szhou9@wpi.edu"
+  site: null
+  img: "/assets/img/profile/Shengce.jpg"
+
+- name: "Casey Costa"
+  roles: ["UI/UX Developer", "Level Designer"]
+  email: "cjcosta@wpi.edu"
+  site: null
+  img: "/assets/img/profile/Casey.jpg"
+
+- name: "Abraham Goodman"
+  roles: ["Systems Programmer"]
+  email: "abgoodman1@wpi.edu"
+  site: "abrahamgoodman.github.io"
+  img: "/assets/img/profile/Abraham.jpg"
+
+- name: "Jeremy King"
+  roles: ["Mechanics Designer", "Level Designer"]
+  email: "jgking@wpi.edu"
+  site: "jgking.dev"
+  img: "/assets/img/profile/Jeremy.jpg"
+
+- name: "Ben Levy"
+  roles: ["Systems Programmer", "Designer", "Production"]
+  email: "belevy@wpi.edu"
+  site: null
+  img: "/assets/img/profile/Ben.jpg"
