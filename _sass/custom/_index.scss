@@ -4,6 +4,7 @@
 // WE SHOULD BE USING `@use` INSTEAD OF `@import`, BUT IT FUCKS UP THE NAMESPACES!!
 @import "./profiles.scss";
 @import "./releases.scss";
+@import "./post.scss";
 
 // The "body" is just to force the style to a higher priority so it overrides the theme
 body pre,
@@ -12,15 +13,4 @@ body code {
 	border: none;
 	border-radius: 0;
 	background-color: #eee;
-}
-
-// Add support for image headers to posts
-header.post-header > img.post-image {
-	width: 100%;
-	aspect-ratio: 5 / 1;
-	background-color: #0001;
-	border-radius: 0.4em;
-	margin-bottom: 0.8em;
-	object-fit: cover;
-	object-position: center;
 }
