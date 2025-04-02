@@ -10,6 +10,9 @@
 $brand-color: #e8342e;
 $brand-color-transparent: #e8342e4c; // color.change($brand-color, $alpha: 0.3);
 
+// Custom variable - allows adjusting the rounding everywhere.
+$block-border-radius: 0.3rem;
+
 @import "minima";
 
 // This imports _sass/custom/_index.scss, which has/imports all of our custom css.
