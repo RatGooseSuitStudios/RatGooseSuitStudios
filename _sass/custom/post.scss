@@ -50,3 +50,9 @@ p.hstack {
 		width: 100%;
 	}
 }
+
+@media screen and (max-width: 450px) {
+	p.hstack {
+		flex-direction: column;
+	}
+}
