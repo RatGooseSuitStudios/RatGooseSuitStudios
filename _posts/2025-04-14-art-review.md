@@ -41,6 +41,14 @@ categories: milestone
 	<img src="/assets/img/posts/2025-04-14-art/tex_jadon.jpg" />
 </p>
 
+## Concepts
+
+<p class="hstack">
+	<img src="/assets/img/posts/2025-04-14-art/concept_cheese_counter.png" />
+	<img class="w2" src="/assets/img/posts/2025-04-14-art/concept_cheese_button.png" />
+	<img class="w2" src="/assets/img/posts/2025-04-14-art/concept_suitcase.png" />
+</p>
+
 ## Animations
 
 <p class="hstack">
