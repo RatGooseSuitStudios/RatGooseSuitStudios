@@ -37,18 +37,32 @@ header.post-header > div.post-image {
 	}
 }
 
-div.post-content p > img {
+div.post-content p > img,
+div.post-content video {
 	border-radius: $block-border-radius;
+	overflow: hidden;
 }
 
 // Simple class that makes images align nicely into multiple rows
 p.hstack {
 	display: flex;
 	gap: 15px;
-
-	& > img {
+	
+	& > img,
+	& > video {
 		width: 100%;
+		object-fit: cover;
+		object-position: center;
 	}
+
+	& > img.w2, & > video.w2 { width: 200% }
+	& > img.w3, & > video.w2 { width: 300% }
+}
+
+hr {
+	margin-bottom: 1em;
+	border: none;
+	border-bottom: 1px solid #ddd;
 }
 
 @media screen and (max-width: 450px) {
