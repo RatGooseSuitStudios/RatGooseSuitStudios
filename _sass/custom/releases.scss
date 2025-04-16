@@ -62,7 +62,11 @@ gh-releases {
 		bottom: 1em;
 		font-size: 1em;
 
-		&:hover {
+		&:not([href]) {
+			--accent-color: #ddd;
+		}
+
+		&[href]:hover {
 			background-color: var(--accent-color);
 			color: #fff;
 		}

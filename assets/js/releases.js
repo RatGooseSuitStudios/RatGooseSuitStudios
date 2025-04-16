@@ -32,9 +32,12 @@ customElements.define('gh-releases', class extends HTMLElement {
 		title_link.href = def.html_url;
 		title.textContent = def.name;
 		body.textContent = def.body;
+
 		download.textContent = 'Download';
 		download.classList.add('download');
-		download.href = def.zipball_url;
+		if (!!def.assets.length) {
+			download.href = def.assets[0].browser_download_url;
+		}
 
 		title_link.appendChild(title);
 		root.replaceChildren(title_link, body, download);
