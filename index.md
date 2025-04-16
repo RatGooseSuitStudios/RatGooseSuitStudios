@@ -14,10 +14,12 @@ title: ""
 
 **[General Moodboard](https://miro.com/app/board/uXjVIMrTzOM=/)**
 
+**[Alpha Presentation Slides](https://docs.google.com/presentation/d/1PK5aU1FiXoQ2LONRmBhdXP3AUlbCIIlg1-GaDKfvADQ/edit?usp=sharing)**
+
 Demonstration Video: **TBD!**
 
 Final Presentation Beta Materials: **TBD!**
 
 Art Progress Imagery: **TBD!**
 
-Art Portfolio: **TBD!**
+**[Art Portfolio]({% post_url 2025-04-14-art-review %})**
