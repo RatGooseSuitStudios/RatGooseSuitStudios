@@ -70,3 +70,39 @@ hr {
 		flex-direction: column;
 	}
 }
+
+yt-video {
+	display: contents;
+
+	& > div.cookie-prompt {
+		background-color: #aaa;
+		background-size: 100%;
+		display: flex;
+		border-radius: $block-border-radius;
+		color: #222;
+		font-size: 9pt;
+
+		& > div {
+			display: flex;
+			flex-direction: column;
+			gap: 0.5em;
+			margin: auto;
+			width: 40%;
+			background: #eee;
+			padding: 0.5rem;
+			border-radius:0.25rem;
+		}
+
+		button {
+			background-color: $brand-color;
+			color: #fff;
+			border: none;
+			border-radius: $block-border-radius;
+			padding: 0.25rem;
+
+			&:hover {
+				background-color: darken($brand-color, 10%);
+			}
+		}
+	}
+}
