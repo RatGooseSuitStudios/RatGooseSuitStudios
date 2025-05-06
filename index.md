@@ -18,8 +18,6 @@ title: ""
 
 Demonstration Video: **TBD!**
 
-Final Presentation Beta Materials: **TBD!**
-
-Art Progress Imagery: **TBD!**
+**[Final Presentation Beta Materials](https://docs.google.com/presentation/d/1AkwPJWjPEP_3aQ5jikUC9uMZhKAbeXib_7oZ0A8LrDM/edit?usp=sharing)**
 
 **[Art Portfolio]({% post_url 2025-04-14-art-review %})**
