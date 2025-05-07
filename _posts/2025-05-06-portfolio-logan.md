@@ -19,6 +19,7 @@ The animations and rig for the suitcase eventually got redone a third time by Ja
 
 <p class="hstack">
 	<img src="/assets/img/posts/art-portfolio-assets/SuitcaseAnimReel.mp4" />
+    <iframe width="560" height="315" src="/assets/img/art-portfolio-assets/SuitcaseAnimReel.mp4" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ## Cheese Vat
