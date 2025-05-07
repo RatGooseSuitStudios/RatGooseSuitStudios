@@ -18,7 +18,6 @@ I tried to work on a lot of different aspects of the project, from animation to 
 The animations and rig for the suitcase eventually got redone a third time by Jadon, but this is a look at my work on the second pass of the suitcase animations.
 
 <p class="hstack">
-	<img src="/assets/img/posts/art-portfolio-assets/logan/SuitcaseAnimReel.mp4" />
     <iframe width="560" height="315" src="/assets/img/art-portfolio-assets/logan/SuitcaseAnimReel.mp4" frameborder="0" allowfullscreen></iframe>
 </p>
 
