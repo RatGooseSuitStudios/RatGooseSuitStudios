@@ -34,7 +34,7 @@ I haven't gotten to model as often as I'd like, so making an asset like the Chee
 
 The initial level blockout was a fun first attempt at designing our level around our proposed mechanics, and it helped pave the way for the current level that is now used in Traveling With Taste.
 
-<p class="vstack">
+<p class="hstack">
 	<img src="/assets/img/posts/art-portfolio-assets/InitialBlockout01.png" />
     <img src="/assets/img/posts/art-portfolio-assets/InitialBlockout02.png" />
     <img src="/assets/img/posts/art-portfolio-assets/InitialBlockout03.png" />
