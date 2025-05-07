@@ -18,8 +18,8 @@ I tried to work on a lot of different aspects of the project, from animation to 
 The animations and rig for the suitcase eventually got redone a third time by Jadon, but this is a look at my work on the second pass of the suitcase animations.
 
 <p class="hstack">
-	<img src="/assets/img/posts/art-portfolio-assets/SuitcaseAnimReel.mp4" />
-    <iframe width="560" height="315" src="/assets/img/art-portfolio-assets/SuitcaseAnimReel.mp4" frameborder="0" allowfullscreen></iframe>
+	<img src="/assets/img/posts/art-portfolio-assets/logan/SuitcaseAnimReel.mp4" />
+    <iframe width="560" height="315" src="/assets/img/art-portfolio-assets/logan/SuitcaseAnimReel.mp4" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ## Cheese Vat
@@ -27,8 +27,8 @@ The animations and rig for the suitcase eventually got redone a third time by Ja
 I haven't gotten to model as often as I'd like, so making an asset like the Cheese Vat was a fun way to get back into it. The modeling, UV unwrapping, and texturing was all done by myself.
 
 <p class="hstack">
-	<img src="/assets/img/posts/art-portfolio-assets/CheeseVatSS.png" />
-    <img src="/assets/img/posts/art-portfolio-assets/CheeseVatSSWireframe.png" />
+	<img src="/assets/img/posts/art-portfolio-assets/logan/CheeseVatSS.png" />
+    <img src="/assets/img/posts/art-portfolio-assets/logan/CheeseVatSSWireframe.png" />
 </p>
 
 ## Initial Level Blockout
@@ -36,10 +36,10 @@ I haven't gotten to model as often as I'd like, so making an asset like the Chee
 The initial level blockout was a fun first attempt at designing our level around our proposed mechanics, and it helped pave the way for the current level that is now used in Traveling With Taste.
 
 <p class="hstack">
-	<img src="/assets/img/posts/art-portfolio-assets/InitialBlockout01.png" />
-    <img src="/assets/img/posts/art-portfolio-assets/InitialBlockout02.png" />
-    <img src="/assets/img/posts/art-portfolio-assets/InitialBlockout03.png" />
-    <img src="/assets/img/posts/art-portfolio-assets/InitialBlockout04.png" />
+	<img src="/assets/img/posts/art-portfolio-assets/logan/InitialBlockout01.png" />
+    <img src="/assets/img/posts/art-portfolio-assets/logan/InitialBlockout02.png" />
+    <img src="/assets/img/posts/art-portfolio-assets/logan/InitialBlockout03.png" />
+    <img src="/assets/img/posts/art-portfolio-assets/logan/InitialBlockout04.png" />
 </p>
 
 ## Security Agent Rig
@@ -47,5 +47,5 @@ The initial level blockout was a fun first attempt at designing our level around
 I have never attempted rigging a character until taking this class, so this was a fun challenge. I have a lot more to learn, but here is what it looks like in Unreal.
 
 <p class="hstack">
-	<img src="/assets/img/posts/art-portfolio-assets/SecurityAgentRigSS.png" />
+	<img src="/assets/img/posts/art-portfolio-assets/logan/SecurityAgentRigSS.png" />
 </p>
