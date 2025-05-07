@@ -18,9 +18,7 @@ I tried to work on a lot of different aspects of the project, from animation to 
 The animations and rig for the suitcase eventually got redone a third time by Jadon, but this is a look at my work on the second pass of the suitcase animations.
 
 <p class="hstack">
-    <video autoplay muted loop width="560">
-		<source src="/assets/img/art-portfolio-assets/logan/SuitcaseAnimReel.mp4" />
-	</video>
+    <yt-video width="560" height="315" src="https://youtu.be/zWGarEAbCjM" thumb="/assets/img/posts/2025-04-24/UISoundThumb.jpg"></yt-video>
 </p>
 
 ## Cheese Vat
@@ -29,7 +27,7 @@ I haven't gotten to model as often as I'd like, so making an asset like the Chee
 
 <p class="hstack">
 	<img src="/assets/img/posts/art-portfolio-assets/logan/CheeseVatSS.png" />
-    <img src="/assets/img/posts/art-portfolio-assets/logan/CheeseVatSSWireframe.png" />
+    <img src="/assets/img/posts/art-portfolio-assets/logan/chesseVatSSWireframe.png" />
 </p>
 
 ## Initial Level Blockout
